@@ -1,0 +1,4 @@
+/home/dmitry/ОС/Лаба 3. Shared mem/build/CMakeFiles/os_lab3_main.dir
+/home/dmitry/ОС/Лаба 3. Shared mem/build/CMakeFiles/cleanup_tool.dir
+/home/dmitry/ОС/Лаба 3. Shared mem/build/CMakeFiles/edit_cache.dir
+/home/dmitry/ОС/Лаба 3. Shared mem/build/CMakeFiles/rebuild_cache.dir

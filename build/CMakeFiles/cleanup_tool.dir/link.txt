@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/cleanup_tool.dir/link.d CMakeFiles/cleanup_tool.dir/src/cleanup_tool.c.o CMakeFiles/cleanup_tool.dir/src/shared.c.o CMakeFiles/cleanup_tool.dir/src/platform.c.o CMakeFiles/cleanup_tool.dir/src/platform_fs.c.o CMakeFiles/cleanup_tool.dir/src/platform_io.c.o -o bin/cleanup_tool  -lpthread -lrt

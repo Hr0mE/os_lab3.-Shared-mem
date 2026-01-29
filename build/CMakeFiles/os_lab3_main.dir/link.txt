@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/os_lab3_main.dir/link.d CMakeFiles/os_lab3_main.dir/src/main.c.o CMakeFiles/os_lab3_main.dir/src/app.c.o CMakeFiles/os_lab3_main.dir/src/shared.c.o CMakeFiles/os_lab3_main.dir/src/platform.c.o CMakeFiles/os_lab3_main.dir/src/platform_fs.c.o CMakeFiles/os_lab3_main.dir/src/platform_io.c.o -o bin/os_lab3_main  -lpthread -lrt
